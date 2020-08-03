@@ -1,6 +1,6 @@
 '''
-Autores:   Manuel López Amo-Ocón
-           Alejangro Galván Pérez-Ilzarbe
+Autores:   Manuel López-Amo Ocón
+           Alejandro Galván Pérez-Ilzarbe
            Santiago Cebellán
            Alejandro Meza Tudela
            
